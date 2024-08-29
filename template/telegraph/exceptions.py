@@ -1,0 +1,2 @@
+class TelegraphException(RuntimeError):
+    pass
